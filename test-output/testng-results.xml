@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-20T09:16:56 IST" name="Default suite" finished-at="2022-10-20T09:16:56 IST" duration-ms="68">
+  <suite started-at="2022-10-20T09:19:58 IST" name="Default suite" finished-at="2022-10-20T09:19:58 IST" duration-ms="69">
     <groups>
     </groups>
-    <test started-at="2022-10-20T09:16:56 IST" name="Default test" finished-at="2022-10-20T09:16:56 IST" duration-ms="68">
+    <test started-at="2022-10-20T09:19:58 IST" name="Default test" finished-at="2022-10-20T09:19:58 IST" duration-ms="69">
       <class name="dataDrivenTesting.OrganizationTest">
-        <test-method signature="createOrgTest()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:16:56 IST" name="createOrgTest" finished-at="2022-10-20T09:16:56 IST" duration-ms="10" status="PASS">
+        <test-method signature="createOrgTest()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:19:58 IST" name="createOrgTest" finished-at="2022-10-20T09:19:58 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createOrgTest -->
-        <test-method signature="deletOrg()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:16:56 IST" name="deletOrg" finished-at="2022-10-20T09:16:56 IST" duration-ms="2" status="PASS">
+        <test-method signature="deletOrg()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:19:58 IST" name="deletOrg" finished-at="2022-10-20T09:19:58 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deletOrg -->
-        <test-method signature="modifyOrg()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:16:56 IST" name="modifyOrg" finished-at="2022-10-20T09:16:56 IST" duration-ms="3" status="PASS">
+        <test-method signature="modifyOrg()[pri:0, instance:dataDrivenTesting.OrganizationTest@1817d444]" started-at="2022-10-20T09:19:58 IST" name="modifyOrg" finished-at="2022-10-20T09:19:58 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyOrg -->
