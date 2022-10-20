@@ -20,5 +20,10 @@ public class FlipkartTest
 	{
 		System.out.println("remove from cart succesfull");
 	}
+	@Test
+	public void logout()
+	{
+		System.out.println("logout succesfull");
+	}
 
 }
