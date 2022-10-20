@@ -8,6 +8,7 @@ public class OrganizationTest
 	public void createOrgTest()
 	{
 		System.out.println("org Created");
+		System.out.println("done");
 	}
 	@Test
 	public void modifyOrg()
