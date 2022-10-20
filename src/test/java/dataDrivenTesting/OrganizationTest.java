@@ -18,6 +18,8 @@ public class OrganizationTest
 	public void deletOrg()
 	{
 		System.out.println("org deleted");
+		System.out.println("got fucked");
 	}
+	
 
 }
