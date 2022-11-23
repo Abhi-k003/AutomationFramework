@@ -2,7 +2,7 @@ package dataDrivenTesting;
 
 import org.testng.annotations.Test;
 
-public class ReadDataFromCmdLine 
+public class ReadDataFromCmdLineTest
 {
 	@Test
 	public void readData()
