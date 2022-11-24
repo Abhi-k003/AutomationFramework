@@ -13,6 +13,7 @@ public class ContactsTest
 	public void modifyContactTest()
 	{
 		System.out.println("contact modifyed");
+		System.out.println("done");
 	}
 	@Test
 	public void deletTest()
