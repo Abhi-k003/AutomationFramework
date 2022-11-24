@@ -18,6 +18,7 @@ public class ContactsTest
 	public void deletTest()
 	{
 		System.out.println("contact deleted");
+		System.out.println("no more bugs");
 	}
 
 }
